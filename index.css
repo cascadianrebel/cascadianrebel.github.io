@@ -1,0 +1,78 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+    height: 100%;
+    padding: 15px;
+  }
+  body {
+     width: auto;
+     height: 100%;
+     Background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/2f/Space_Needle002.jpg);
+     min-height: 100%;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     background-size: cover;
+  }
+
+  header {
+      background-color: Rgba(26,125,232,0.2) ;
+      padding: 7px;
+      font-size: 35;
+      text-align: Center;
+      border: 10px groove #1a7DE8;
+      display: block;
+      width: auto;
+  }
+  nav {
+    /* float: left; */
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+  }
+  nav ul {
+      background-color: Rgba(26,125,232,0.2) ;
+      font-size: 18;
+      font-weight: bold
+      text-align: center;
+      background-clip: border-box;
+  }
+  nav li {
+    list-style: none;
+    display: inline-block;
+    font-size: 24;
+  }
+  nav li a {
+      display: block;
+      height: 25px;
+      padding: 12px 18px 8px 18px;
+  }
+  section {
+    background-color: Rgba(69,74,92,0.9) ;
+    border: 10px groove #1a7DE8;
+    width: Auto;
+      color: white;
+      text-align: center;
+      font-size: 18;
+      font: bold;
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  #seamet {border-radius: 50%}
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }
