@@ -70,9 +70,7 @@ html {
   }
   footer {
       width: 790px;
-      border: 10px groove white;
-      background-color:white;
-      color:black;
+      color: white;
       clear: both;
       display: block;
   }
